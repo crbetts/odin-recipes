@@ -1,6 +1,7 @@
 img {
-    height: 500px;
-    width: 500px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
 }
 
 body {
@@ -8,31 +9,26 @@ body {
 }
 
 div {
-    height: 200px;
-    width: 200px;
-    background-color: #FDB560;
-    
-}
+    height: 225px;
+    width: 225px;
+    position: relative;
 
-section {
-    height: 800px;
-    width: 800px;
-    display: flex;
-    justify-content: space-around;
 }
 
 a {
     color: #57A5B8;
 }
 
-/* #chicken {
-
+h1 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 50px;
 }
 
 #pork {
-
+    left: 500px;
 }
 
 #mousse {
-
-} */
+    left: 1000px;
+}
