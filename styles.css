@@ -2,3 +2,8 @@ body {
     background-color: #f4f4f4;
     color: #575757;
 }
+
+img {
+    height: 300px;
+    width: 300px;
+}
