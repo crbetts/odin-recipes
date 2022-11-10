@@ -1,6 +1,7 @@
 body {
     background-color: #f4f4f4;
     color: #575757;
+    text-align: center;
 }
 
 img {
@@ -8,9 +9,6 @@ img {
     width: 300px;
 }
 
-div {
-    margin: 20px;
-    padding: 10px;
-    background-color: #666666;
-    color: #f4f4f4;
+ul, ol {
+    list-style-position: inside;
 }
